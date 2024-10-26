@@ -1,0 +1,2 @@
+# Akpotu-Augustine-Ntishor-Day25-Assignment
+ - *Topics*:    - Introduction to pseudo-elements: ::before, ::after, ::first-letter, ::first-line   - Using pseudo-elements for advanced styling (e.g., decorative elements) - *Practical Learning*:    - Add content before and after HTML elements using ::before and ::after.   - Style the first letter or line of paragraphs using ::first-letter and ::first-line.
